@@ -1,0 +1,12 @@
+pandas
+tweepy==3.10
+pymongo
+geocoder
+streamlit>=1.9.2 
+python-decouple
+torch 
+torchvision 
+transformers
+matplotlib
+scipy
+dnspython
